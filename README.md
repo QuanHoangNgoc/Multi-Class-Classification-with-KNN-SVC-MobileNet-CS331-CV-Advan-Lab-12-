@@ -1,5 +1,3 @@
----
-
 # 🚀 MobileNetV1 on Caltech101
 
 This project implements **MobileNetV1** to classify images from the **Caltech101 dataset** using **TensorFlow** and **Keras**. The model is trained with different configurations to evaluate its performance.
@@ -30,10 +28,6 @@ The **Caltech101 dataset** consists of **101 object categories** and a backgroun
 
 The model achieves significant improvements in **validation accuracy** during training, demonstrating its ability to **generalize well** to the dataset.  
 
-## 🛠 Installation & Usage  
-
-(Instructions to be added)  
-
 ## 🚀 Future Improvements  
 
 - 🏗 **Implement data augmentation** for better generalization  
@@ -44,5 +38,3 @@ The model achieves significant improvements in **validation accuracy** during tr
 ## 👨‍💻 Contributors  
 
 - **Quan-Hoang-Ngoc**  
-
----
